@@ -1,0 +1,34 @@
+# DNA Sequence Analyzer 🧬
+
+A beginner-friendly Python project for basic DNA sequence analysis.
+
+## Features
+
+- Validates DNA sequences using A, T, G, C
+- Calculates DNA sequence length
+- Counts each nucleotide
+- Calculates GC content
+- Displays basic sequence analysis results
+
+## Example
+
+Input:
+ATGCGATCGATCGTAGCTAGCTAGCTA
+
+Output:
+- Sequence Length: 27
+- Adenine (A): 7
+- Thymine (T): 7
+- Guanine (G): 7
+- Cytosine (C): 6
+- GC Content: 48.15%
+
+## Technologies
+
+- Python
+- Basic Bioinformatics Concepts
+
+## Author
+
+Manahil
+BS Bioinformatics Student
